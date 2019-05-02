@@ -1,4 +1,4 @@
-Simple OpenVPN Server
+Bespoke OpenVPN Server
 ====
 
 OpenVPN is a one of the most popular VPN platforms for a lot of good reasons. It's free, open source, and there are clients for just about every platform imaginable. For these reasons, OpenVPN is the choice for organizations and individuals alike. 
@@ -29,7 +29,7 @@ Otherwise, use the installer:
 1. Download the installer script.
 
 	````
-	wget https://raw.githubusercontent.com/theonemule/simple-openvpn-server/master/openvpn.sh
+	wget https://raw.githubusercontent.com/TamB10/OpenVpn/master/openvpn.sh
 	````
 
 1. Make the script executable
